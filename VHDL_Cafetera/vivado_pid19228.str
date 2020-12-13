@@ -1,0 +1,115 @@
+/*
+
+Xilinx Vivado v2020.1 (64-bit) [Major: 2020, Minor: 1]
+SW Build: 2902540 on Wed May 27 19:54:49 MDT 2020
+IP Build: 2902112 on Wed May 27 22:43:36 MDT 2020
+
+Process ID (PID): 19228
+License: Customer
+
+Current time: 	Sun Dec 13 20:19:26 CET 2020
+Time zone: 	Central European Standard Time (Europe/Paris)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1920x1080
+Screen resolution (DPI): 100
+Available screens: 2
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	9.0.4 64-bit
+Java home: 	C:/Vivado/2020.1/tps/win64/jre9.0.4
+Java executable location: 	C:/Vivado/2020.1/tps/win64/jre9.0.4/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	jlope
+User home directory: C:/Users/jlope.DESKTOP-3003JMM
+User working directory: C:/Users/jlope.DESKTOP-3003JMM/Desktop/SED/TrabajoSED_VHDL/VHDL_Cafetera
+User country: 	ES
+User language: 	es
+User locale: 	es_ES
+
+RDI_BASEROOT: C:/Vivado
+HDI_APPROOT: C:/Vivado/2020.1
+RDI_DATADIR: C:/Vivado/2020.1/data
+RDI_BINDIR: C:/Vivado/2020.1/bin
+
+Vivado preferences file location: C:/Users/jlope.DESKTOP-3003JMM/AppData/Roaming/Xilinx/Vivado/2020.1/vivado.xml
+Vivado preferences directory: C:/Users/jlope.DESKTOP-3003JMM/AppData/Roaming/Xilinx/Vivado/2020.1/
+Vivado layouts directory: C:/Users/jlope.DESKTOP-3003JMM/AppData/Roaming/Xilinx/Vivado/2020.1/data/layouts
+PlanAhead jar file location: 	C:/Vivado/2020.1/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/jlope.DESKTOP-3003JMM/Desktop/SED/TrabajoSED_VHDL/VHDL_Cafetera/vivado.log
+Vivado journal file location: 	C:/Users/jlope.DESKTOP-3003JMM/Desktop/SED/TrabajoSED_VHDL/VHDL_Cafetera/vivado.jou
+Engine tmp dir: 	C:/Users/jlope.DESKTOP-3003JMM/Desktop/SED/TrabajoSED_VHDL/VHDL_Cafetera/.Xil/Vivado-19228-DESKTOP-3003JMM
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Vivado/2020.1/ids_lite/ISE
+XILINX_DSP: C:/Vivado/2020.1/ids_lite/ISE
+XILINX_PLANAHEAD: C:/Vivado/2020.1
+XILINX_VIVADO: C:/Vivado/2020.1
+XILINX_VIVADO_HLS: C:/Vivado/2020.1
+
+
+GUI allocated memory:	154 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,013 MB
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// bz (cs):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\jlope.DESKTOP-3003JMM\Desktop\SED\TrabajoSED_VHDL\VHDL_Cafetera\VHDL_Cafetera.xpr. Version: Vivado v2020.1 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project C:/Users/jlope.DESKTOP-3003JMM/Desktop/SED/TrabajoSED_VHDL/VHDL_Cafetera/VHDL_Cafetera.xpr 
+// HMemoryUtils.trashcanNow. Engine heap size: 1,013 MB. GUI used memory: 50 MB. Current time: 12/13/20, 8:19:27 PM CET
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/jlope.DESKTOP-3003JMM/Desktop/SED/TrabajoSED_VHDL/VHDL_Cafetera/VHDL_Cafetera.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'C:/Users/Sergio/Desktop/TrabajoSED_VHDL/VHDL_Cafetera' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 108 MB (+110424kb) [00:00:17]
+// [Engine Memory]: 1,013 MB (+910367kb) [00:00:17]
+// WARNING: HEventQueue.dispatchEvent() is taking  4248 ms.
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Vivado/2020.1/data/ip'. 
+// Tcl Message: open_project: Time (s): cpu = 00:00:19 ; elapsed = 00:00:10 . Memory (MB): peak = 1029.258 ; gain = 0.000 
+// Project name: VHDL_Cafetera; location: C:/Users/jlope.DESKTOP-3003JMM/Desktop/SED/TrabajoSED_VHDL/VHDL_Cafetera; part: xc7a100tcsg324-1
+dismissDialog("Open Project"); // bz (cs)
+// Tcl Command: 'rdi::info_commands {device::*}'
+// Tcl Command: 'rdi::info_commands {debug::*}'
+// Tcl Command: 'rdi::info_commands {*}'
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Constraints]", 0); // B (F, cs)
+// PAPropertyPanels.initPanels (Nexys-4-DDR-Master.xdc) elapsed time: 0.2s
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Constraints, constrs_1, Nexys-4-DDR-Master.xdc]", 2, false); // B (F, cs)
+// [GUI Memory]: 116 MB (+3282kb) [00:00:27]
+// [GUI Memory]: 126 MB (+3803kb) [00:00:27]
+// Tcl Message: update_compile_order -fileset sources_1 
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Constraints, constrs_1, Nexys-4-DDR-Master.xdc]", 4, false); // B (F, cs)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Constraints, constrs_1, Nexys-4-DDR-Master.xdc]", 4, false, false, false, false, false, true); // B (F, cs) - Double Click
+// TclEventType: FILE_SET_CHANGE
