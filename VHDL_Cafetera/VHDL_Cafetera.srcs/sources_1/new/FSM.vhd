@@ -133,7 +133,7 @@ output_decod: process (current_state, SEL, MORE, LESS)
             
             elsif SEL = '0' then
                 tiempo_cafe<=tiempo_corto+tiempo_buffer_corto;
-                if (MORE = '1' and tiempo_buffer_corto<=10) then
+                if (MORE = '1' and tiempo_buffer_corto<=10) then --
                   tiempo_buffer_corto<=tiempo_buffer_corto+aumento_cafe_corto;
                   tiempo_cafe<=tiempo_corto+tiempo_buffer_corto; 
                   
