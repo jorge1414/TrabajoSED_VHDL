@@ -1,1 +1,0 @@
--wto "fc0bdbb37980425cabebf7a2e4a29018" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "cfg_tb_stringtocathode_behav" "xil_defaultlib.cfg_tb_stringtocathode" -log "elaborate.log" 
