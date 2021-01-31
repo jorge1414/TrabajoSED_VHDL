@@ -113,3 +113,4 @@ selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Constraints,
 selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Constraints, constrs_1, Nexys-4-DDR-Master.xdc]", 4, false); // B (F, cs)
 selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Constraints, constrs_1, Nexys-4-DDR-Master.xdc]", 4, false, false, false, false, false, true); // B (F, cs) - Double Click
 // TclEventType: FILE_SET_CHANGE
+// [GUI Memory]: 136 MB (+3741kb) [00:11:56]
