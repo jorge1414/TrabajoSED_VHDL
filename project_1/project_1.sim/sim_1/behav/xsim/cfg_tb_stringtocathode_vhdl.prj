@@ -1,7 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../VHDL_Cafetera.srcs/sources_1/new/stringtocathode.vhd" \
-"../../../../VHDL_Cafetera.srcs/sim_1/new/stringtocathode_tb.vhd" \
-
-# Do not sort compile order
-nosort
